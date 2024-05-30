@@ -1,0 +1,27 @@
+.item__recentes--ativo {
+    justify-content: center;
+    margin-top: 56px;
+    padding: 4px 0;
+    display: flex;
+    margin: 32px;
+}
+
+.item__recentes--ativo h2 {
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 600;
+    text-align: center;
+    color: var(--verde-destaque);
+    text-decoration: underline;
+    
+
+}
+
+.item__recentes--ativo p {
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0 24px;
+    color: var(--cinza-medio);
+}
